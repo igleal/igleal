@@ -4,6 +4,8 @@
 
 Frontend & Backend Developer driven by curiosity. I love everything related to programming and consider myself an eternal learner.
 
+📬 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/ignaciogleal/)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=igleal&count_private=true&theme=radical)
 
 ## 🛠️ Tech Stack
