@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Ignacio!
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=igleal&count_private=true&theme=radical" alt="" />
 
 <!--
 **igleal/igleal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
